@@ -1,0 +1,20 @@
+--------The Highest Scoring Class is --------- 
+ClassB
+---------------------------------------------- 
+Overall average of all students: 80.086207
+Average for ClassA: 79.4
+Total number of students in class: 10
+Number of students used to calculate average of class: 9
+Names discarded from consideration: 
+Edith Adkins
+---------------------------------------------- 
+Average for ClassB: 80.2
+Total number of students in class: 10
+Number of students used to calculate average of class: 10
+Names discarded from consideration: 
+---------------------------------------------- 
+Average for ClassC: 80.1
+Total number of students in class: 10
+Number of students used to calculate average of class: 10
+Names discarded from consideration: 
+---------------------------------------------- 
